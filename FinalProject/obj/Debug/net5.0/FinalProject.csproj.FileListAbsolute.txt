@@ -1,0 +1,32 @@
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\bin\Debug\net5.0\FinalProject.exe
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\bin\Debug\net5.0\FinalProject.deps.json
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.json
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.dev.json
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\bin\Debug\net5.0\FinalProject.dll
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\bin\Debug\net5.0\FinalProject.pdb
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfo.cs
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.dll
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\refint\FinalProject.dll
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.pdb
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\FinalProject.genruntimeconfig.cache
+C:\Users\rodri\Documents\_DotNet\FinalProject\FinalProject\obj\Debug\net5.0\ref\FinalProject.dll
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\bin\Debug\net5.0\FinalProject.exe
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\bin\Debug\net5.0\FinalProject.deps.json
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.json
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\bin\Debug\net5.0\FinalProject.runtimeconfig.dev.json
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\bin\Debug\net5.0\FinalProject.dll
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\bin\Debug\net5.0\FinalProject.pdb
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.AssemblyInfo.cs
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.dll
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\refint\FinalProject.dll
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.pdb
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\FinalProject.genruntimeconfig.cache
+C:\Users\User\Desktop\projeto final de modulo\FinalProjectCSharp-main\FinalProject\obj\Debug\net5.0\ref\FinalProject.dll
